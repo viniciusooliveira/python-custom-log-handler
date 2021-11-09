@@ -1,4 +1,4 @@
-#Python Custom Log Handler
+# Python Custom Log Handler
 
 This project was created to study how Python log handlers work.
 
@@ -8,7 +8,7 @@ In this example, a basic Handler with record buffering was created, with maximum
 
 
 
-##How to run
+## How to run
 
 As the project only has a dependency on `Python 3.X`, without external dependencies, just run the following command:
 
